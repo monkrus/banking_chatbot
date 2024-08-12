@@ -6,9 +6,7 @@ Nvidia NIM credits are needed to run the code. Signup at https://build.nvidia.co
 `Answers` folder provides examples of chatbot answers.
 
 1. Install
-
 `pip install streamlit  pypdf langchain faiss-cpu python-dotenv langchain-nvidia-ai-endpoints -U langchain-community transformers sentence-transformers.`
 
 2. Run
-
 `streamlit run bank.py`
