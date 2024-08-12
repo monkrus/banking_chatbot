@@ -3,6 +3,8 @@ App is using **meta/llama-3.1-8b-instruct** (via NIM) to retrieve information fr
 
 Nvidia NIM credits are needed to run the code. Signup at https://build.nvidia.com/explore/discover to get 1000 credits.
 
+`Answers` folder provides examples of chatbot answers.
+
 1. Install
 
 `pip install streamlit  pypdf langchain faiss-cpu python-dotenv langchain-nvidia-ai-endpoints -U langchain-community transformers sentence-transformers.`
